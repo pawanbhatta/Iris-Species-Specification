@@ -1,7 +1,6 @@
 from django.shortcuts import render, redirect
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import numpy as np
 import json
 from .models import IrisPlants
