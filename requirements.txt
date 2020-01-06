@@ -1,0 +1,9 @@
+django
+tensorflow
+psycopg2
+pandas
+numpy
+joblib
+pickle
+seaborn
+matplotlib
